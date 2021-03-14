@@ -1,0 +1,1 @@
+execute unless score timer ___death_race___ matches 1.. run function ___death_race___:actionbar

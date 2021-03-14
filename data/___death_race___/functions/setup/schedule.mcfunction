@@ -1,0 +1,1 @@
+schedule function ___death_race___:setup/on_reload 20t
