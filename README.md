@@ -16,7 +16,7 @@ Watch The Datapack in Action: https://youtu.be/ZUnO2Glen3s
 
 ## How to Use & Information
 
-You are given a random death at the beginning of each round - first to get that death wins the round. It does not count points automatically due to some limitations of Minecraft - so you should judge what you count as a point and tally your points manually.
+You are given a random death at the beginning of each round - first to get that death wins the round. It does not count points automatically - so you should judge what you count as a point and tally your points manually.
 
 Simply type /trigger spin in chat and all players will be given a randomly selected death.
 
