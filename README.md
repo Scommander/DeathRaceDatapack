@@ -10,7 +10,7 @@
 
 Death Race is a concept which originally comes from [McBirken](https://youtu.be/5jS1Ku63wTs)
 
-This is a datapack recreation of that minigame made for Minecraft 1.16+. This datapack includes a randomiser which gives you a randomly selected death which you must race your friends to get. Note that this creation **does not** count scores or when you die. It is purely the randomiser for the sake of simplicity.
+This is a datapack recreation of that minigame made for Minecraft Java Edition 1.16+. This datapack includes a randomiser which gives you a randomly selected death which you must race your friends to get. Note that this creation **does not** count scores or when you die. It is purely the randomiser for the sake of simplicity.
 
 Watch The Datapack in Action: https://youtu.be/ZUnO2Glen3s
 
