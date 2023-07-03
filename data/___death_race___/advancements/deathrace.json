@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "Death Race",
+    "description": "'/trigger spin' to start.",
+    "icon": {
+      "item": "minecraft:clock"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:scommander",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
